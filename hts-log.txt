@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 17 Oct 2023 20:09:01 at https://appbiro.netlify.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://appbiro.netlify.app/ -O1 "C:\My Web Sites\pokemon go spoofing 2023" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:10:21	Error: 	"Not Found" (404) at link https://howinonline.com/wp-content/plugins/ele-blog/assets/css/owl.video.play.png (from https://howinonline.com/wp-content/plugins/ele-blog/assets/css/owl.min.css?ver=1.0.0)
+20:10:21	Error: 	"Not Found" (404) at link https://appbiro.netlify.app/wp-content/plugins/ele-blog/assets/css/Trident/ (from https://howinonline.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.13.4)
+20:10:21	Error: 	"Not Found" (404) at link https://appbiro.netlify.app/wp-content/plugins/ele-blog/assets/css/-negative.svg (from https://howinonline.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.13.4)
+20:10:22	Error: 	"Not Found" (404) at link https://appbiro.netlify.app/wp-content/plugins/ele-blog/assets/css/OPR/ (from https://howinonline.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.13.4)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 21 seconds : 94 links scanned, 89 files written (3702680 bytes overall) [1317087 bytes received at 16260 bytes/sec], 3204833 bytes transferred using HTTP compression in 80 files, ratio 20%, 1.5 requests per connection
+(4 errors, 0 warnings, 0 messages)
